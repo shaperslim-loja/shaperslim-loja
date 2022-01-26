@@ -2,7 +2,7 @@
 
 <!--
 **shaperslim-loja/shaperslim-loja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<meta name="facebook-domain-verification" content="drykoi8m9zml099yc5j1sqszgcvuiw" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
